@@ -1,0 +1,8 @@
+useful Django cammands
+
+creates main files
+    django-admin startproject computerWebsite
+creates home folder + file
+    python manage.py startapp home
+runs the website
+    python manage.py runserver
